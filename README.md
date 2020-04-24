@@ -16,3 +16,8 @@ These files can be replaced with other US County mappings as long as they're kep
 - [WA County Boundaries shape files](http://data-wadnr.opendata.arcgis.com/datasets/wa-county-boundaries)
 - [WA County to ACH Region map](./data/regions.json)
 
+## Samples
+
+[WA ACH Regions Dissolved (GeoJSON Download)](./samples/dissolved.geojson)
+
+![wa_ach_regions_dissolved_map](./samples/dissolved.png)
